@@ -1,0 +1,111 @@
+.top{
+    background-image: url("/images/top-view-person-writing-laptop-with-copy-space.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding: 10% 0;
+    background-position: center;
+}
+
+.top-gallery{
+    width: 50%;
+}
+
+h1{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+    padding: 1rem 0;
+}
+
+p{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.09rem;
+    line-height: 1.7;
+}
+
+.image{
+    width: 100%;
+    display: block;
+    padding: 12px 0;
+    aspect-ratio: 1.2/1;
+    object-fit: cover;
+    object-position: center;
+}
+
+.profile{
+    width: 40%;
+}
+
+.btna{
+    background-color: rgb(58, 255, 58);
+    height: 60px;
+    width: 200px;
+    margin-top: 4rem;
+    border: none;
+}
+
+.btnb{
+    background-color: rgb(58, 255, 58);
+    height: 60px;
+    width: 200px;
+    border: none;
+    border-radius: 10px;
+}
+
+h2{
+    font-family: 'Roboto', sans-serif;
+    padding: 5% 20%;
+    text-align: center;
+    font-size: 2.5rem;
+}
+
+.cont{
+    margin: 5% 0;
+}
+.center{
+    padding-top: 5%;
+}
+
+.bottom{
+    background-color: rgb(50, 50, 226);
+    color: white;
+    margin-top: 3%;
+    padding: 5% 0%;
+    
+}
+
+.bottom-top{
+    margin-bottom: 3%;
+}
+
+.address{
+    margin-bottom: 6%;
+}
+
+.number{
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.email{
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+    font-size: 1.5rem;
+    color: rgb(0, 255, 0);
+}
+
+.btnc{
+    background-color: rgb(58, 255, 58);
+    height: 50px;
+    border-radius: 10px;
+    width: 100px;
+}
+
+.emal{
+    height: 50px;
+    width: 70%;
+    border-radius: 10px;
+    border: none;
+}
